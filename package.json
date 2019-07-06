@@ -1,0 +1,12 @@
+{
+    "license": "UNLICENSED",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^24.8.0"
+    },
+    "testPathIgnorePatterns": [
+        "/node_modules/"
+    ]
+}
