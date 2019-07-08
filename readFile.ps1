@@ -7,5 +7,5 @@ foreach($line in [System.IO.File]::ReadLines("C:\Users\m2web\code\js\VSCodeJSTes
     $countries = $countries + '"'+$line+'",'
 }
 
-# '['+$countyLinks+']'
-'['+$countries+']'
+'['+$countyLinks+']'
+# '['+$countries+']'
